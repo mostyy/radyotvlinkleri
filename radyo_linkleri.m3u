@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,TRT:Radyo1
+https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+#EXTINF:-1,TRT:TRT FM
+https://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8
+#EXTINF:-1,TRT:Radyo 3
+https://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8
+#EXTINF:-1,TRT:TRT Nağme
+https://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8
+#EXTINF:-1,TRT:TRT Türkü
+https://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8
+#EXTINF:-1,TRT:TRT Çukurova Radyosu
+https://trtcanlifm-lh.akamaihd.net/i/TRTCUKUROVA_1@182047/master.m3u8
+#EXTINF:-1,TRT:TRT Trabzon Radyosu
+https://trtcanlifm-lh.akamaihd.net/i/TRTTRABZON_1@181948/master.m3u8
+#EXTINF:-1,TRT:TRT GAP Radyosu
+https://trtcanlifm-lh.akamaihd.net/i/TRTGAP_1@182148/master.m3u8
+#EXTINF:-1,TRT:TRT Antalya Radyosu
+https://trtcanlifm-lh.akamaihd.net/i/TRTANTALYA_1@181847/master.m3u8
+#EXTINF:-1,TRT:TRT Erzurum Radyosu
+https://trtcanlifm-lh.akamaihd.net/i/TRTERZURUM_1@182248/master.m3u8
+#EXTINF:-1,TRT:TRT Radyo Haber
+https://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8
