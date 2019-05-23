@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,PAL: PAL FM
+http://shoutcast.radyogrup.com:1030/;stream/1
+#EXTINF:-1,PAL: PAL Nostalji
+http://shoutcast.radyogrup.com:1010/;stream/1
+#EXTINF:-1,PAL: PAL Station
+http://shoutcast.radyogrup.com:1020/;stream/1
+#EXTINF:-1,PAL: PAL Doğa
+http://shoutcast.radyogrup.com:1040/;stream/1
+#EXTINF:-1,PAL: PAL Orient
+http://shoutcast.radyogrup.com:1050/;stream/1
 #EXTINF:-1,TRT:Radyo1
 https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
 #EXTINF:-1,TRT:TRT FM
