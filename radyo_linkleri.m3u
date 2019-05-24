@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,KRAL: 45'lik
+https://ssldyg.radyotvonline.com/kralweb/smil:kral45lik.smil/chunklist_w2135663144_b64000.m3u8
 #EXTINF:-1,PAL: PAL FM
 http://shoutcast.radyogrup.com:1030/;stream/1
 #EXTINF:-1,PAL: PAL Nostalji
@@ -9,6 +11,46 @@ http://shoutcast.radyogrup.com:1020/;stream/1
 http://shoutcast.radyogrup.com:1040/;stream/1
 #EXTINF:-1,PAL: PAL Orient
 http://shoutcast.radyogrup.com:1050/;stream/1
+#EXTINF:-1,POWER:POWER FM
+https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/chunks.m3u8
+#EXTINF:-1,POWER:POWERTURK
+https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/chunks.m3u8
+#EXTINF:-1,POWER:POWER POP
+https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/chunks.m3u8
+#EXTINF:-1,POWER:POWER Love
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/chunks.m3u8
+#EXTINF:-1,POWER:POWER XL
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/chunks.m3u8
+#EXTINF:-1,POWER:Power K-Pop
+https://listen.powerapp.com.tr/powerkpop/abr/powerkpop/128/chunks.m3u8
+#EXTINF:-1,POWER:POWER Deep
+https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/chunks.m3u8
+#EXTINF:-1,POWER:POWER 2.0
+https://listen.powerapp.com.tr/power20/abr/power20/128/chunks.m3u8
+#EXTINF:-1,POWER:PowerTürk Akustik
+https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/chunks.m3u8
+#EXTINF:-1,POWER:PowerTürk Efsane
+https://listen.powerapp.com.tr/powerturkefsane/abr/powerturkefsane/128/chunks.m3u8
+#EXTINF:-1,POWER:PowerTürk Taptaze
+https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/chunks.m3u8
+#EXTINF:-1,POWER:PowerTürk Cover
+https://listen.powerapp.com.tr/powerturkcover/abr/powerturkcover/128/chunks.m3u8
+#EXTINF:-1,POWER:PowerTürk Eniyiler
+https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/128/chunks.m3u8
+#EXTINF:-1,POWER:PowerTürk Rap
+https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/chunks.m3u8?
+#EXTINF:-1,POWER:Power Smooth Jazz
+https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/chunks.m3u8
+#EXTINF:-1,POWER:R&B Hip Hop
+https://listen.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/128/chunks.m3u8
+#EXTINF:-1,POWER:Power Dance
+https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/chunks.m3u8
+#EXTINF:-1,POWER:Power Minimix
+https://listen.powerapp.com.tr/powerminimix/abr/powerminimix/128/chunks.m3u8
+#EXTINF:-1,POWER:Power Greece
+https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/chunks.m3u8?nimblesessionid=2205618
+#EXTINF:-1,POWER:Power Gold
+https://listen.powerapp.com.tr/powergold/abr/powergold/128/chunks.m3u8
 #EXTINF:-1,TRT:Radyo1
 https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
 #EXTINF:-1,TRT:TRT FM

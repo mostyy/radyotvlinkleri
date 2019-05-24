@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,POWER: PowerTürk TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1012000_sltur.m3u8
+#EXTINF:-1,POWER: Power TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b1012000_sltur.m3u8
