@@ -1,6 +1,38 @@
 #EXTM3U
+#EXTINF:-1,TÜRK MEDYA: ALEM FM
+http://windows.showradyo.com.tr:80/
+#EXTINF:-1,TÜRK MEDYA: ALEM FM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1,TÜRK MEDYA: LİG RADYO
+https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/chunklist_w1682193791.m3u8
+#EXTINF:-1,CİNER YAYIN: Bloomberg HT Radyo
+https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
+#EXTINF:-1,CİNER YAYIN: HABERTÜRK RADYO
+https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
 #EXTINF:-1,KRAL: 45'lik
 https://ssldyg.radyotvonline.com/kralweb/smil:kral45lik.smil/chunklist_w2135663144_b64000.m3u8
+#EXTINF:-1,KRAL: KRAL POP
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w2123227240_b64000.m3u8
+#EXTINF:-1,KRAL: KRAL FM
+https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w936744250_b64000.m3u8
+#EXTINF:-1,KRAL: KRAL WORLD
+https://ssldyg.radyotvonline.com/kralworldsmil/smil:kralworlddigital.smil/chunklist_w1873950873_b128000.m3u8
+#EXTINF:-1,KRAL: 90'LAR
+https://ssldyg.radyotvonline.com/kralweb/smil:k90s.smil/chunklist_w1889149171_b64000.m3u8
+#EXTINF:-1,KRAL: AŞK
+https://ssldyg.radyotvonline.com/kralweb/smil:kralask.smil/chunklist_w1082772214_b64000.m3u8
+#EXTINF:-1,KRAL: LOVE Radio
+https://ssldyg.radyotvonline.com/kralweb/smil:klove.smil/chunklist_w1615887603_b64000.m3u8
+#EXTINF:-1,KRAL: AKUSTİK
+https://ssldyg.radyotvonline.com/kralweb/smil:kakustik.smil/chunklist_w1347773906_b64000.m3u8
+#EXTINF:-1,KRAL: DANS
+https://ssldyg.radyotvonline.com/kralweb/smil:kraldans.smil/chunklist_w266906346_b64000.m3u8
+#EXTINF:-1,KRAL: DANCE
+https://ssldyg.radyotvonline.com/kralweb/smil:kdance.smil/chunklist_w162168163_b64000.m3u8
+#EXTINF:-1,KRAL: TÜRKÜ
+https://ssldyg.radyotvonline.com/kralweb/smil:kturku.smil/chunklist_w713830385_b64000.m3u8
+#EXTINF:-1,KRAL: TSM
+https://ssldyg.radyotvonline.com/kralweb/smil:kraltsm.smil/chunklist_w853865902_b64000.m3u8
 #EXTINF:-1,PAL: PAL FM
 http://shoutcast.radyogrup.com:1030/;stream/1
 #EXTINF:-1,PAL: PAL Nostalji
@@ -73,3 +105,7 @@ https://trtcanlifm-lh.akamaihd.net/i/TRTANTALYA_1@181847/master.m3u8
 https://trtcanlifm-lh.akamaihd.net/i/TRTERZURUM_1@182248/master.m3u8
 #EXTINF:-1,TRT:TRT Radyo Haber
 https://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8
+#EXTINF:-1,Karnaval:JOYTURK
+https://17773.live.streamtheworld.com/JOY_TURK2128AAC.aac
+#EXTINF:-1,Karnaval:JOYTURK2
+http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2128AAC.aac
