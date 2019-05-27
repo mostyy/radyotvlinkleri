@@ -117,3 +117,42 @@ http://yayin1.canliyayin.org:7424/;stream.mp3#.m4a
 http://live46.netmedya.net:443/lalegulfm
 #EXTINF:-1,TR:ISTANBUL FM (88.6)
 http://45.32.154.169:9300/stream
+#EXTINF:-1,Turkuvaz:A Haber Radyo
+http://trkvz-radyo.ercdn.net/ahaberradyo/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Radyo Turkuvaz
+http://trkvz-radyo.ercdn.net/radyoturkuvaz/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:A Spor Radyo
+http://trkvz-radyo.ercdn.net/asporradyo/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:A Para Radyo
+http://trkvz-radyo.ercdn.net/apararadyo/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Radyo Vav
+http://trkvz-radyo.ercdn.net/radyovav/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Turkuvaz Efsane
+http://trkvz-radyo.ercdn.net/turkuvazefsane/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Turkuvaz Romantik
+http://trkvz-radyo.ercdn.net/turkuvazromantik/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Radyo Energy
+http://trkvz-radyo.ercdn.net/radyoenergy/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Radyo Soft
+http://trkvz-radyo.ercdn.net/radyosoft/chunklist.m3u8
+#EXTINF:-1,Turkuvaz:Turkuvaz Anadolu
+http://trkvz-radyo.ercdn.net/turkuvazanadolu/chunklist.m3u8
+#EXTINF:-1,CRI:Cri Türk FM
+http://criturkfm.aa.net.tr:2200/;stream.mp3
+#EXTINF:-1,CRI:Cri Türk Info
+http://91.134.25.37:9100/;stream.mp3
+#EXTINF:-1,CRI:Cri Türk Mutfak
+http://95.173.188.166:9100/;stream.mp3
+#EXTINF:-1,CRI:Cri Türk Easy
+http://95.173.161.134:9100/;stream.mp3
+#EXTINF:-1,CRI:Cri Türk Music Plus
+http://159.253.39.180:9100/;stream.mp3
+#EXTINF:-1,CRI:Cri Türk Klasik
+http://95.173.162.185:9100/;stream.mp3
+#EXTINF:-1,TR:Kafa Radyo
+http://live2.kafaradyo.com/kafaradyo/kafaradyomobil.stream/chunklist_w1144261047.m3u8
+#EXTINF:-1,TR:Radyo VIVA
+http://46.20.3.231/
+#EXTINF:-1,TR:Radyo 2000
+http://stream.taksimbilisim.com:8004/;
+
