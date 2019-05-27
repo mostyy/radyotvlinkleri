@@ -109,3 +109,11 @@ https://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8
 https://17773.live.streamtheworld.com/JOY_TURK2128AAC.aac
 #EXTINF:-1,Karnaval:JOYTURK2
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2128AAC.aac
+#EXTINF:-1,TR:IBB Trafik Radyosu (87.7)
+http://wowza.istweb.tv:1935/sc/trafikradyo.stream/chunklist_w1097777884.m3u8
+#EXTINF:-1,TR:Radyo 34 (88.0)
+http://yayin1.canliyayin.org:7424/;stream.mp3#.m4a
+#EXTINF:-1,TR:Lalegül FM (88.4)
+http://live46.netmedya.net:443/lalegulfm
+#EXTINF:-1,TR:ISTANBUL FM (88.6)
+http://45.32.154.169:9300/stream
