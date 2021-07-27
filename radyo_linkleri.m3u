@@ -1,179 +1,83 @@
 #EXTM3U
-#EXTINF:-1,TR: SHOW Radyo
-http://windows.showradyo.com.tr:80/
-#EXTINF:-1,TÜRK MEDYA: ALEM FM
+#EXTINF:-1,iptvtools_2
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1,TÜRK MEDYA: LİG RADYO
+#EXTINF:-1,iptvtools_3
 https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/chunklist_w1682193791.m3u8
-#EXTINF:-1,CİNER YAYIN: Bloomberg HT Radyo
+#EXTINF:-1,iptvtools_4
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
-#EXTINF:-1,CİNER YAYIN: HABERTÜRK RADYO
+#EXTINF:-1,iptvtools_5
 https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
-#EXTINF:-1,KRAL: 45'lik
-https://ssldyg.radyotvonline.com/kralweb/smil:kral45lik.smil/chunklist_w2135663144_b64000.m3u8
-#EXTINF:-1,KRAL: KRAL POP
+#EXTINF:-1,iptvtools_7
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w2123227240_b64000.m3u8
-#EXTINF:-1,KRAL: KRAL FM
+#EXTINF:-1,iptvtools_8
 https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w936744250_b64000.m3u8
-#EXTINF:-1,KRAL: KRAL WORLD
-https://ssldyg.radyotvonline.com/kralworldsmil/smil:kralworlddigital.smil/chunklist_w1873950873_b128000.m3u8
-#EXTINF:-1,KRAL: 90'LAR
-https://ssldyg.radyotvonline.com/kralweb/smil:k90s.smil/chunklist_w1889149171_b64000.m3u8
-#EXTINF:-1,KRAL: AŞK
-https://ssldyg.radyotvonline.com/kralweb/smil:kralask.smil/chunklist_w1082772214_b64000.m3u8
-#EXTINF:-1,KRAL: LOVE Radio
-https://ssldyg.radyotvonline.com/kralweb/smil:klove.smil/chunklist_w1615887603_b64000.m3u8
-#EXTINF:-1,KRAL: AKUSTİK
-https://ssldyg.radyotvonline.com/kralweb/smil:kakustik.smil/chunklist_w1347773906_b64000.m3u8
-#EXTINF:-1,KRAL: DANS
-https://ssldyg.radyotvonline.com/kralweb/smil:kraldans.smil/chunklist_w266906346_b64000.m3u8
-#EXTINF:-1,KRAL: DANCE
-https://ssldyg.radyotvonline.com/kralweb/smil:kdance.smil/chunklist_w162168163_b64000.m3u8
-#EXTINF:-1,KRAL: TÜRKÜ
-https://ssldyg.radyotvonline.com/kralweb/smil:kturku.smil/chunklist_w713830385_b64000.m3u8
-#EXTINF:-1,KRAL: TSM
-https://ssldyg.radyotvonline.com/kralweb/smil:kraltsm.smil/chunklist_w853865902_b64000.m3u8
-#EXTINF:-1,PAL: PAL FM
+#EXTINF:-1,iptvtools_18
 http://shoutcast.radyogrup.com:1030/;stream/1
-#EXTINF:-1,PAL: PAL Nostalji
+#EXTINF:-1,iptvtools_19
 http://shoutcast.radyogrup.com:1010/;stream/1
-#EXTINF:-1,PAL: PAL Station
+#EXTINF:-1,iptvtools_20
 http://shoutcast.radyogrup.com:1020/;stream/1
-#EXTINF:-1,PAL: PAL Doğa
+#EXTINF:-1,iptvtools_21
 http://shoutcast.radyogrup.com:1040/;stream/1
-#EXTINF:-1,PAL: PAL Orient
+#EXTINF:-1,iptvtools_22
 http://shoutcast.radyogrup.com:1050/;stream/1
-#EXTINF:-1,POWER:POWER FM
+#EXTINF:-1,iptvtools_23
 https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/chunks.m3u8
-#EXTINF:-1,POWER:POWERTURK
+#EXTINF:-1,iptvtools_24
 https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/chunks.m3u8
-#EXTINF:-1,POWER:POWER POP
+#EXTINF:-1,iptvtools_25
 https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/chunks.m3u8
-#EXTINF:-1,POWER:POWER Love
+#EXTINF:-1,iptvtools_26
 https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/chunks.m3u8
-#EXTINF:-1,POWER:POWER XL
-https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/chunks.m3u8
-#EXTINF:-1,POWER:Power K-Pop
-https://listen.powerapp.com.tr/powerkpop/abr/powerkpop/128/chunks.m3u8
-#EXTINF:-1,POWER:POWER Deep
+#EXTINF:-1,iptvtools_29
 https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/chunks.m3u8
-#EXTINF:-1,POWER:POWER 2.0
-https://listen.powerapp.com.tr/power20/abr/power20/128/chunks.m3u8
-#EXTINF:-1,POWER:PowerTürk Akustik
+#EXTINF:-1,iptvtools_31
 https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/chunks.m3u8
-#EXTINF:-1,POWER:PowerTürk Efsane
-https://listen.powerapp.com.tr/powerturkefsane/abr/powerturkefsane/128/chunks.m3u8
-#EXTINF:-1,POWER:PowerTürk Taptaze
+#EXTINF:-1,iptvtools_33
 https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/chunks.m3u8
-#EXTINF:-1,POWER:PowerTürk Cover
-https://listen.powerapp.com.tr/powerturkcover/abr/powerturkcover/128/chunks.m3u8
-#EXTINF:-1,POWER:PowerTürk Eniyiler
+#EXTINF:-1,iptvtools_35
 https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/128/chunks.m3u8
-#EXTINF:-1,POWER:PowerTürk Rap
+#EXTINF:-1,iptvtools_36
 https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/chunks.m3u8?
-#EXTINF:-1,POWER:Power Smooth Jazz
+#EXTINF:-1,iptvtools_37
 https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/chunks.m3u8
-#EXTINF:-1,POWER:R&B Hip Hop
+#EXTINF:-1,iptvtools_38
 https://listen.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/128/chunks.m3u8
-#EXTINF:-1,POWER:Power Dance
+#EXTINF:-1,iptvtools_39
 https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/chunks.m3u8
-#EXTINF:-1,POWER:Power Minimix
-https://listen.powerapp.com.tr/powerminimix/abr/powerminimix/128/chunks.m3u8
-#EXTINF:-1,POWER:Power Greece
-https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/chunks.m3u8?nimblesessionid=2205618
-#EXTINF:-1,POWER:Power Gold
+#EXTINF:-1,iptvtools_42
 https://listen.powerapp.com.tr/powergold/abr/powergold/128/chunks.m3u8
-#EXTINF:-1,TRT:Radyo1
-https://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
-#EXTINF:-1,TRT:TRT FM
-https://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8
-#EXTINF:-1,TRT:Radyo 3
-https://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8
-#EXTINF:-1,TRT:TRT Nağme
-https://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8
-#EXTINF:-1,TRT:TRT Türkü
-https://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8
-#EXTINF:-1,TRT:TRT Çukurova Radyosu
-https://trtcanlifm-lh.akamaihd.net/i/TRTCUKUROVA_1@182047/master.m3u8
-#EXTINF:-1,TRT:TRT Trabzon Radyosu
-https://trtcanlifm-lh.akamaihd.net/i/TRTTRABZON_1@181948/master.m3u8
-#EXTINF:-1,TRT:TRT GAP Radyosu
-https://trtcanlifm-lh.akamaihd.net/i/TRTGAP_1@182148/master.m3u8
-#EXTINF:-1,TRT:TRT Antalya Radyosu
-https://trtcanlifm-lh.akamaihd.net/i/TRTANTALYA_1@181847/master.m3u8
-#EXTINF:-1,TRT:TRT Erzurum Radyosu
-https://trtcanlifm-lh.akamaihd.net/i/TRTERZURUM_1@182248/master.m3u8
-#EXTINF:-1,TRT:TRT Radyo Haber
-https://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8
-#EXTINF:-1,Karnaval:JOYTURK
+#EXTINF:-1,iptvtools_54
 https://17773.live.streamtheworld.com/JOY_TURK2128AAC.aac
-#EXTINF:-1,Karnaval:JOYTURK2
+#EXTINF:-1,iptvtools_55
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2128AAC.aac
-#EXTINF:-1,TR:IBB Trafik Radyosu (87.7)
-http://wowza.istweb.tv:1935/sc/trafikradyo.stream/chunklist_w1097777884.m3u8
-#EXTINF:-1,TR:Radyo 34 (88.0)
+#EXTINF:-1,iptvtools_57
 http://yayin1.canliyayin.org:7424/;stream.mp3#.m4a
-#EXTINF:-1,TR:Lalegül FM (88.4)
+#EXTINF:-1,iptvtools_58
 http://live46.netmedya.net:443/lalegulfm
-#EXTINF:-1,TR:ISTANBUL FM (88.6)
+#EXTINF:-1,iptvtools_59
 http://45.32.154.169:9300/stream
-#EXTINF:-1,Turkuvaz:A Haber Radyo
-http://trkvz-radyo.ercdn.net/ahaberradyo/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Radyo Turkuvaz
-http://trkvz-radyo.ercdn.net/radyoturkuvaz/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:A Spor Radyo
-http://trkvz-radyo.ercdn.net/asporradyo/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:A Para Radyo
-http://trkvz-radyo.ercdn.net/apararadyo/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Radyo Vav
-http://trkvz-radyo.ercdn.net/radyovav/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Turkuvaz Efsane
-http://trkvz-radyo.ercdn.net/turkuvazefsane/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Turkuvaz Romantik
-http://trkvz-radyo.ercdn.net/turkuvazromantik/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Radyo Energy
-http://trkvz-radyo.ercdn.net/radyoenergy/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Radyo Soft
-http://trkvz-radyo.ercdn.net/radyosoft/chunklist.m3u8
-#EXTINF:-1,Turkuvaz:Turkuvaz Anadolu
-http://trkvz-radyo.ercdn.net/turkuvazanadolu/chunklist.m3u8
-#EXTINF:-1,CRI:Cri Türk FM
-http://criturkfm.aa.net.tr:2200/;stream.mp3
-#EXTINF:-1,CRI:Cri Türk Info
-http://91.134.25.37:9100/;stream.mp3
-#EXTINF:-1,CRI:Cri Türk Mutfak
-http://95.173.188.166:9100/;stream.mp3
-#EXTINF:-1,CRI:Cri Türk Easy
-http://95.173.161.134:9100/;stream.mp3
-#EXTINF:-1,CRI:Cri Türk Music Plus
-http://159.253.39.180:9100/;stream.mp3
-#EXTINF:-1,CRI:Cri Türk Klasik
-http://95.173.162.185:9100/;stream.mp3
-#EXTINF:-1,TR:Kafa Radyo
+#EXTINF:-1,iptvtools_76
 http://live2.kafaradyo.com/kafaradyo/kafaradyomobil.stream/chunklist_w1144261047.m3u8
-#EXTINF:-1,TR:Radyo VIVA
-http://46.20.3.231/
-#EXTINF:-1,TR:Radyo 2000
+#EXTINF:-1,iptvtools_78
 http://stream.taksimbilisim.com:8004/;
-#EXTINF:-1,FENOMEN:Radyo Fenomen
+#EXTINF:-1,iptvtools_79
 https://listen.radyofenomen.com/fenomen/256/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen TÜRK
+#EXTINF:-1,iptvtools_80
 https://listen.radyofenomen.com/fenomenturk/256/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen TÜRK RAP
+#EXTINF:-1,iptvtools_81
 https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen K-Pop
-https://listen.radyofenomen.com/fenomenkpop/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen Karışık
+#EXTINF:-1,iptvtools_83
 https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen POP
+#EXTINF:-1,iptvtools_84
 https://listen.radyofenomen.com/fenomenpop/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen DANS
+#EXTINF:-1,iptvtools_85
 https://listen.radyofenomen.com/fenomendans/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen Clubbin
+#EXTINF:-1,iptvtools_86
 https://listen.radyofenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen RAP
+#EXTINF:-1,iptvtools_87
 https://listen.radyofenomen.com/fenomenrap/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen Akustik
+#EXTINF:-1,iptvtools_88
 https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio
-#EXTINF:-1,FENOMEN:Fenomen Oriental
+#EXTINF:-1,iptvtools_89
 https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio
