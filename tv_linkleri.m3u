@@ -1,3 +1,43 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1,TRT1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT HABER
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT SPOR 1080p
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,TRT SPOR 720p
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT SPOR YILDIZ
+https://tv-trtspor2.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT SPOR YILDIZ 720p
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT MÜZİK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT MÜZİK 720p
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Çocuk 720p
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Türk
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Türk 720p
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Avaz 720p
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Kurdi 720p
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Arabi 1080p
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,TRT Arabi 720p
+https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT World 1080p
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1,TRT World 720p
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,Kanal24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
