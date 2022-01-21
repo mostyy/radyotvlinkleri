@@ -41,3 +41,9 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Kanal24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
+#EXTINF:-1,NTV (720p)
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1,STAR TV (720p)
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+#EXTINF:-1,EUROSTAR (720p)
+http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/playlist.m3u8?st=EE7-3fL3_Ei6zQGtrmZXnA&e=1642846797
