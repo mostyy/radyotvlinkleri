@@ -81,3 +81,31 @@ https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio
 https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio
 #EXTINF:-1,Radyo D
 https://radyo.duhnet.tv/ak_dtvh_radyod
+#EXTINF:-1,Radyo Turkuvaz
+https://moondigitalmaster2.radyotvonline.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1,A Haber Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/chunklist.m3u8
+#EXTINF:-1,A Haber Radyo(2)
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1,A Spor Radyo
+https://trkvz-radyolar.ercdn.net/asporradyo/chunklist.m3u8
+#EXTINF:-1,A Para Radyo
+https://trkvz-radyolar.ercdn.net/apararadyo/chunklist.m3u8
+#EXTINF:-1,A News Radio
+https://trkvz-radyolar.ercdn.net/anewsradyo/chunklist.m3u8
+#EXTINF:-1,Turkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/chunklist.m3u
+#EXTINF:-1,Turkuvaz Nostalji
+https://trkvz-radyolar.ercdn.net/turkuvaznostalji/chunklist.m3u8
+#EXTINF:-1,Radyo VAV
+https://trkvz-radyolar.ercdn.net/radyovav/chunklist.m3u8
+#EXTINF:-1,Turkuvaz Efsane
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/chunklist.m3u8
+#EXTINF:-1,Turkuvaz Romantik
+https://trkvz-radyolar.ercdn.net/turkuvazromantik/chunklist.m3u8
+#EXTINF:-1,Radyo Enerji
+https://trkvz-radyolar.ercdn.net/radyoenergy/chunklist.m3u8
+#EXTINF:-1,Radyo Soft
+https://trkvz-radyolar.ercdn.net/radyosoft/chunklist.m3u8
+#EXTINF:-1,Turkuvaz Anadolu
+https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8
