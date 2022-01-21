@@ -109,3 +109,11 @@ https://trkvz-radyolar.ercdn.net/radyoenergy/chunklist.m3u8
 https://trkvz-radyolar.ercdn.net/radyosoft/chunklist.m3u8
 #EXTINF:-1,Turkuvaz Anadolu
 https://trkvz-radyolar.ercdn.net/turkuvazanadolu/chunklist.m3u8
+#EXTINF:-1,Bayram FM
+https://sslyayin.netyayin.net:10962/live
+#EXTINF:-1,NTV RADYO
+https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
+#EXTINF:-1,RADYO EKSEN
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:-1,RADYO VOYAGE
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
