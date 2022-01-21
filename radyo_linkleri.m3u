@@ -1,79 +1,77 @@
 #EXTM3U
-#EXTINF:-1,iptvtools_2
+#EXTINF:-1,Alem FM
 http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#EXTINF:-1,iptvtools_3
+#EXTINF:-1,Lig Radyo
 https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/chunklist_w1682193791.m3u8
-#EXTINF:-1,iptvtools_4
+#EXTINF:-1,BLOOMBERG RADYO
 https://ciner-live.ercdn.net/bloombergradyo/bloombergradyo_1.m3u8
-#EXTINF:-1,iptvtools_5
+#EXTINF:-1,HABERTÜRK RADYO
 https://ciner-live.ercdn.net/haberturkradyo/haberturkradyo_1.m3u8
-#EXTINF:-1,iptvtools_7
+#EXTINF:-1,KRAP POP
 https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/chunklist_w2123227240_b64000.m3u8
-#EXTINF:-1,iptvtools_8
+#EXTINF:-1,KRAL FM
 https://ssldyg.radyotvonline.com/smil/smil:kralfm.smil/chunklist_w936744250_b64000.m3u8
-#EXTINF:-1,iptvtools_18
+#EXTINF:-1,PAL FM
 http://shoutcast.radyogrup.com:1030/;stream/1
-#EXTINF:-1,iptvtools_19
+#EXTINF:-1,PAL NOSTALJİ
 http://shoutcast.radyogrup.com:1010/;stream/1
-#EXTINF:-1,iptvtools_20
+#EXTINF:-1,PAL STATION
 http://shoutcast.radyogrup.com:1020/;stream/1
-#EXTINF:-1,iptvtools_21
+#EXTINF:-1,PAL DOĞA
 http://shoutcast.radyogrup.com:1040/;stream/1
-#EXTINF:-1,iptvtools_22
+#EXTINF:-1,PAL ORIENT
 http://shoutcast.radyogrup.com:1050/;stream/1
-#EXTINF:-1,iptvtools_23
+#EXTINF:-1,Power FM
 https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/chunks.m3u8
-#EXTINF:-1,iptvtools_24
+#EXTINF:-1,Power Türk
 https://listen.powerapp.com.tr/powerturk/abr/powerturk/128/chunks.m3u8
-#EXTINF:-1,iptvtools_25
+#EXTINF:-1,Power Pop
 https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/chunks.m3u8
-#EXTINF:-1,iptvtools_26
+#EXTINF:-1,Power Love
 https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/chunks.m3u8
-#EXTINF:-1,iptvtools_29
+#EXTINF:-1,Power Deep
 https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/chunks.m3u8
-#EXTINF:-1,iptvtools_31
+#EXTINF:-1,Power Türk Akustik
 https://listen.powerapp.com.tr/powerturkakustik/abr/powerturkakustik/128/chunks.m3u8
-#EXTINF:-1,iptvtools_33
+#EXTINF:-1,Power Türk Taptaze
 https://listen.powerapp.com.tr/powerturktaptaze/abr/powerturktaptaze/128/chunks.m3u8
-#EXTINF:-1,iptvtools_35
+#EXTINF:-1,Power Türk En İyiler
 https://listen.powerapp.com.tr/powerturkeniyiler/abr/powerturkeniyiler/128/chunks.m3u8
-#EXTINF:-1,iptvtools_36
-https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/chunks.m3u8?
-#EXTINF:-1,iptvtools_37
+#EXTINF:-1,Power Türk Rap
+https://listen.powerapp.com.tr/powerturkrap/abr/powerturkrap/128/chunks.m3u8
+#EXTINF:-1,Power Smooth Jazz
 https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/chunks.m3u8
-#EXTINF:-1,iptvtools_38
+#EXTINF:-1,Power RB HipHop
 https://listen.powerapp.com.tr/powerrbhiphop/abr/powerrbhiphop/128/chunks.m3u8
-#EXTINF:-1,iptvtools_39
+#EXTINF:-1,Power Dance
 https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/chunks.m3u8
-#EXTINF:-1,iptvtools_42
+#EXTINF:-1,Power Golds
 https://listen.powerapp.com.tr/powergold/abr/powergold/128/chunks.m3u8
-#EXTINF:-1,iptvtools_54
-https://17773.live.streamtheworld.com/JOY_TURK2128AAC.aac
-#EXTINF:-1,iptvtools_55
+#EXTINF:-1,Joy Turk
 http://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK2128AAC.aac
-#EXTINF:-1,iptvtools_57
+#EXTINF:-1,AutoDJ Stream
 http://yayin1.canliyayin.org:7424/;stream.mp3#.m4a
-#EXTINF:-1,iptvtools_58
+#EXTINF:-1,Lalegül FM
 http://live46.netmedya.net:443/lalegulfm
-#EXTINF:-1,iptvtools_59
+#EXTINF:-1,İstanbul FM
 http://45.32.154.169:9300/stream
-#EXTINF:-1,iptvtools_76
+#EXTINF:-1,Kafa Radyo
 http://live2.kafaradyo.com/kafaradyo/kafaradyomobil.stream/chunklist_w1144261047.m3u8
-#EXTINF:-1,iptvtools_78
+#EXTINF:-1,Radyo 2000
 http://stream.taksimbilisim.com:8004/;
-#EXTINF:-1,iptvtools_79
+#EXTINF:-1,Fenomen
 https://listen.radyofenomen.com/fenomen/256/icecast.audio
-#EXTINF:-1,iptvtools_80
+#EXTINF:-1,Fenomen Türk
 https://listen.radyofenomen.com/fenomenturk/256/icecast.audio
-#EXTINF:-1,iptvtools_81
+#EXTINF:-1,Fenomen Türkçe Rap
 https://listen.radyofenomen.com/fenomenturkrap/128/icecast.audio
-#EXTINF:-1,iptvtools_83
+#EXTINF:-1,Fenomen Karışık
 https://listen.radyofenomen.com/fenomenkarisik/128/icecast.audio
-#EXTINF:-1,iptvtools_84
+#EXTINF:-1,Fenomen Pop
 https://listen.radyofenomen.com/fenomenpop/128/icecast.audio
-#EXTINF:-1,iptvtools_85
+#EXTINF:-1,Fenomen Dans
 https://listen.radyofenomen.com/fenomendans/128/icecast.audio
-#EXTINF:-1,iptvtools_86
+#EXTINF:-1,Fenomen Clubbin
 https://listen.radyofenomen.com/fenomenclubbin/128/icecast.audio
 #EXTINF:-1,Fenomen Rap
 https://listen.radyofenomen.com/fenomenrap/128/icecast.audio
