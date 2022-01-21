@@ -117,3 +117,23 @@ https://dygedge.radyotvonline.net/ntvradyo/playlist.m3u8
 https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
 #EXTINF:-1,RADYO VOYAGE
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+#EXTINF:-1,RADYO SPOR 107.2
+https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+#EXTINF:-1,RADYO GOL
+https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8
+#EXTINF:-1,RADYO TRAFİK İSTANBUL
+https://moondigitaledge.radyotvonline.net/radyotrafik/playlist.m3u8
+#EXTINF:-1,RADYO TRAFİK MARMARA
+https://moondigitaledge.radyotvonline.net/radyotrafikmarmara/playlist.m3u8
+#EXTINF:-1,RADYO TRAFİK ANKARA
+https://wowza1.radyotvonline.com/saran/radyotrafikankara.stream/playlist.m3u8
+#EXTINF:-1,RADYO TRAFİK İZMİR
+https://wowza1.radyotvonline.com/saran/radyotrafikizmir.stream/playlist.m3u8
+#EXTINF:-1,TGRT FM
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:-1,SAMSUN HABER RADYO (103.5)
+https://ssl.radyosfer.com:7086/;/stream?icy=http
+#EXTINF:-1,Tekirdağ Haber (106.9)
+https://radyo.yayindakiler.com/stream/tekirdaghaber
+#EXTINF:-1,Açık Radyo (95.0)
+https://stream.34bit.net/ar.opus
