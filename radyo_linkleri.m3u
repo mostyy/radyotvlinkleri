@@ -75,9 +75,11 @@ https://listen.radyofenomen.com/fenomenpop/128/icecast.audio
 https://listen.radyofenomen.com/fenomendans/128/icecast.audio
 #EXTINF:-1,iptvtools_86
 https://listen.radyofenomen.com/fenomenclubbin/128/icecast.audio
-#EXTINF:-1,iptvtools_87
+#EXTINF:-1,Fenomen Rap
 https://listen.radyofenomen.com/fenomenrap/128/icecast.audio
-#EXTINF:-1,iptvtools_88
+#EXTINF:-1,Fenomen Akustik
 https://listen.radyofenomen.com/fenomenakustik/128/icecast.audio
-#EXTINF:-1,iptvtools_89
+#EXTINF:-1,Fenomen Oriental
 https://listen.radyofenomen.com/fenomenoriental/128/icecast.audio
+#EXTINF:-1,Radyo D
+https://radyo.duhnet.tv/ak_dtvh_radyod
