@@ -8,3 +8,5 @@ http://www.iptvtools.net/
 
 # Turkish Radio Official Stream Links
 
+https://raw.githubusercontent.com/mostyy/radyotvlinkleri/master/tv_linkleri.m3u
+
