@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TRT1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT BELGESEL
@@ -39,10 +37,16 @@ https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,TRT World 720p
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Kanal24
 https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8
 #EXTINF:-1,NTV (720p)
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
+#EXTINF:-1,HABERGLOBAL (190p)
+https://stream-02.ix7.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpu3qTqE9wmjaTv_L4gMLmLY)/dm/3/x81x3cd/s/live-0.m3u8
+#EXTINF:-1,ÜLKETV (480p)
+https://stream-10.dc3.dailymotion.com/sec(8lOMYwOWJB0kD-8STcdDUBceHcnCiX409fNJ8Zigr4M)/dm/3/x7yb4xm/s/live-1.m3u8#cell=lcore
 #EXTINF:-1,STAR TV (720p)
 https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1,EUROSTAR (720p)
