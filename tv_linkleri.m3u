@@ -71,3 +71,7 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CoMFWT7HdCWNW6TVk36FQnRD2HT
 https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1,Kanal 23 (Elazığ)
 https://waw1.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+#EXTINF:-1,Kanal V (Antalya)
+https://waw1.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
+#EXTINF:-1,Alanya TV (Antalya)
+https://broadcasttr.com:446/alanyatv/bant1/playlist.m3u8
