@@ -137,3 +137,5 @@ https://ssl.radyosfer.com:7086/;/stream?icy=http
 https://radyo.yayindakiler.com/stream/tekirdaghaber
 #EXTINF:-1,Açık Radyo (95.0)
 https://stream.34bit.net/ar.opus
+#EXTINF:-1,Karasi Radyo 93.0 Mhz(Balıkesir)
+http://sunucu2.radyosfer.com:9318/
