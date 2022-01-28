@@ -59,3 +59,15 @@ https://trkvz-beta.daioncdn.net/aspor/aspor_1080p.m3u8?app=45f847c4-04e8-419a-a5
 https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=IKAKW5ah-HNEf5A6wNlUTQ&e=1643398658
 #EXTINF:-1,TV8 (480p)
 https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1643441858&st=PIQO7M_OT18dWRD6SoRdDA
+#EXTINF:-1,Kanal 7 (1080p)
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1,Beyaz TV
+https://stream-07.dc3.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzMqkM_lC9cAoP3TRK2qc6k0)/dm/3/x4kopfq/d/live-3.m3u8#cell=lcore
+#EXTINF:-1,Flash TV
+https://www.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1,Serhat TV (Kars)
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CoMFWT7HdCWNW6TVk36FQnRD2HT2xkPafLx9xGtBPzj4ZaWHZlfZiSB3k48we_s6BO5OMV0zFh0LGiEeaRVdB6sJbqVCizuFbfReYlIZG20FUxJItbnhdazC5AzjClmpJKIAfn1cJSVoaNM6J-oobg3YgxXrm1Vz873aLfBLkzWru2Q51yeAfiUuueYM9dpodCgFjbhBf0-4ZpYgaTaqZjVjg7L7aHG8wLMRH1Hh0DgqenReJjdGnOYg2cAYiQokr0IkEjiWwMdreGtbVnWnkEzrqv-kCkicJhE2inhVunZLO5Ya74n63jACg7JXs-Ag3vi-s_Jui684Ye17b9Rlbj6lmbmXA9g78WZIew4xGfBaOqCcgSceHLJXcZgBbaD8x5u89jLK8Xgmny53_Jm1GPCeUvPxHidpu0OYZfsl726aiL_ru99T1H-3IzdGT0teNpyFJs3MZRecDqMwRdWp4KocvOU02n2FR9GUI05CwHPA28b3bbQav5EpZ4Vze8l_d5AMoVRHij-qpkZ3xdlCvRMMPh0pCWeX87scKKSgUMvbGDpHGZTxaXpcg9PyyqqkaiJEtGP5FxfT3mKOwbUnfRPTCG7NVPCd_llrYjI9f3wjQvyZ2M52jzaJpZse_kGe9mfaVkMjp0cTCOUYEItdJieCEGOvdOjD7wYX8zXoE5UtkWMS2Egia0ODaY6znMLArOEAfxM8z1F0s3OrTf-FOKep6nGdJxuvNbug0HSF3YHx1BLqHepJI2rwbBc6xc9AG2q9QYtC-m2MASqa6S8dkUZzvvLjYY9C5mNfCrq34jAyKZm2gBnA38-fOsisuWU532xgtCAu9joQ4RhBnkfoAlpgISdfqhoMUO66hL12LC0Iv3XVIAEqCXVzLWVhc3QtMjDvAg.m3u8
+#EXTINF:-1,Halk TV
+https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
+#EXTINF:-1,Kanal 23 (Elazığ)
+https://waw1.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
