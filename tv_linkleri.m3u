@@ -75,3 +75,17 @@ https://waw1.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
 https://waw1.artiyerelmedya.net/kanalv/bant1/playlist.m3u8
 #EXTINF:-1,Alanya TV (Antalya)
 https://broadcasttr.com:446/alanyatv/bant1/playlist.m3u8
+#EXTINF:-1,AS TV (Bursa)
+https://waw1.artiyerelmedya.net/astv/bant1/playlist.m3u8
+#EXTINF:-1,Line TV (Bursa)
+https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
+#EXTINF:-1,Bursa TV (Bursa)
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1,Köy TV (Bursa)
+https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
+#EXTINF:-1,Ton TV (Çanakkale)
+https://waw1.artiyerelmedya.net/tontv/bant1/playlist.m3u8
+#EXTINF:-1,Pamukkale TV (Denizli)
+http://ms1.sanlisoy.com:1935/pamukkaletv/pamukkaletv/playlist.m3u8
+#EXTINF:-1,Deha TV (Denizli)
+https://waw1.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
