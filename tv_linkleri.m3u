@@ -57,3 +57,5 @@ http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/playlist.m3u8?st
 https://trkvz-beta.daioncdn.net/aspor/aspor_1080p.m3u8?app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
 #EXTINF:-1,TV8
 https://tv8-tb-live.ercdn.net/tv8-geo/playlist.m3u8?st=IKAKW5ah-HNEf5A6wNlUTQ&e=1643398658
+#EXTINF:-1,TV8 (480p)
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8hd_480p.m3u8?e=1643441858&st=PIQO7M_OT18dWRD6SoRdDA
